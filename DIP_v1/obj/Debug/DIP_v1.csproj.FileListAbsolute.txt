@@ -1,0 +1,10 @@
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\bin\Debug\DIP_v1.exe.config
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\bin\Debug\DIP_v1.exe
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\bin\Debug\DIP_v1.pdb
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.csprojAssemblyReference.cache
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.Properties.Resources.resources
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.csproj.GenerateResource.cache
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.csproj.CoreCompileInputs.cache
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.exe
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.pdb
+E:\NCKU_110-1\IP_HW1\DIP_v1\DIP_v1\obj\Debug\DIP_v1.step.resources
